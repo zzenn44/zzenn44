@@ -1,18 +1,13 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzenn44&label=Profile%20views&color=0e75b6&style=flat" alt="zzenn44" /> </p>
 
-Hi, I'm Jenisha
+                                                             Hi, I'm Jenisha
 
 I’m currently working on developing my full stack development skills
 
 You can reach me at zenisha.parajuli@gmail.com
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzenn44)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zzenn44&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzenn44&label=Profile%20views&color=0e75b6&style=flat" alt="zzenn44" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzenn44" alt="zzenn44" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +21,10 @@ You can reach me at zenisha.parajuli@gmail.com
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzenn44&show_icons=true&locale=en&layout=compact" alt="zzenn44" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzenn44&show_icons=true&locale=en" alt="zzenn44" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzenn44" alt="zzenn44" /></a> </p>
+
 
 
 
