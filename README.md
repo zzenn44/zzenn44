@@ -6,7 +6,10 @@
 <p align="center">
   I’m currently working on developing my full stack development skills
 
-  You can reach me at zenisha.parajuli@gmail.com
+</p>
+
+<p align="center">
+ You can reach me at zenisha.parajuli@gmail.com
 </p>
 
 
@@ -46,7 +49,7 @@
   </a>
 </p>
 
-
+<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzenn44&show_icons=true&locale=en&layout=compact" alt="zzenn44" /></p>
@@ -55,7 +58,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzenn44&show_icons=true&locale=en" alt="zzenn44" /></p>
 
 
-
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzenn44" alt="zzenn44" /></a> </p>
 
 
