@@ -39,14 +39,17 @@ You can reach me at zenisha.parajuli@gmail.com
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zzenn44&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=zzenn44&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+</p>
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzenn44&show_icons=true&locale=en&layout=compact" alt="zzenn44" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzenn44&show_icons=true&locale=en" alt="zzenn44" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzenn44&show_icons=true&locale=en" alt="zzenn44" /></p>
 
 
 
