@@ -1,7 +1,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzenn44&label=Profile%20views&color=0e75b6&style=flat" alt="zzenn44" /> </p>
 
-                                                             Hi, I'm Jenisha
+<style>
+
+  @keyframes fadeInOut {
+    0%, 100% { opacity: 0; } 
+    50% { opacity: 1; } 
+  }
+
+  /* Apply the animation to the text */
+  .fade-text {
+    font-size: 24px;
+    color: #333;
+    animation: fadeInOut 4s infinite; /* Duration: 4 seconds, infinite loop */
+  }
+</style>
+</head>
+<body>
+
+<h1 class="fade-text">Hi, this is Jenisha</h1>
 
 <p align="center">
   I’m currently working on developing my fullstack development skills
