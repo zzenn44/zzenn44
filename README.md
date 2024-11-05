@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- You can reach me at- <a href="zenisha.parajuli@gmail.com">example@gmail.com</a>
+ You can reach me at- <a href="zenisha.parajuli@gmail.com"> zenisha.parajuli@gmail.com</a>
 
 </p>
 
