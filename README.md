@@ -43,7 +43,7 @@
 <a href="https://instagram.com/https://www.instagram.com/zzen.vv/profilecard/?igsh=d3o2zznrow1kbm8=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zzen.vv/profilecard/?igsh=d3o2zznrow1kbm8=" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+<p align="center">Streaks
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=zzenn44&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak"/>
   </a>
@@ -56,7 +56,7 @@
 
 
 
-<p> </p>
+<hr>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzenn44" alt="zzenn44" /></a> </p>
 
