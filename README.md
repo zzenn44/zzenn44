@@ -46,8 +46,8 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=zzenn44&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=zzenn44&theme=vue-dark" alt="GitHub Streak" />" alt="GitHub Streak"/>
   </a>
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzenn44" alt="zzenn44" /></a> </p>
