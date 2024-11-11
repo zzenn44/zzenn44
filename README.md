@@ -46,7 +46,7 @@
 </p>
 
 
-<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zzenn44&theme=gotham" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=zzenn44&theme=gotham" alt="GitHub Streak" /></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzenn44&show_icons=true&locale=en&layout=compact" alt="zzenn44" /></p>
