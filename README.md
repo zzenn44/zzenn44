@@ -45,13 +45,12 @@
 <a href="https://instagram.com/https://www.instagram.com/zzen.vv/profilecard/?igsh=d3o2zznrow1kbm8=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zzen.vv/profilecard/?igsh=d3o2zznrow1kbm8=" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zzenn44&theme=gotham)](https://git.io/streak-stats)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzenn44" alt="zzenn44" /></a> </p>
+<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zzenn44&theme=gotham" alt="GitHub Streak" /></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzenn44&show_icons=true&locale=en&layout=compact" alt="zzenn44" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzenn44&show_icons=true&locale=en" alt="zzenn44" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzenn44" alt="zzenn44" /></a> </p>
 
 
 
